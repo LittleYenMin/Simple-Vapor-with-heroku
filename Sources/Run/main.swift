@@ -1,4 +1,4 @@
-import App
+import Vapor
 
 /// We have isolated all of our App's logic into
 /// the App module because it makes our app
@@ -21,5 +21,10 @@ try config.setup()
 
 let drop = try Droplet(config)
 try drop.setup()
-
+drop.get("/name",":name") { request in
+        if let name = request.parameters["name"]?.string {
+            return "Hello \(name)!"
+        }
+        return "Error retrieving parameters."
+}
 try drop.run()
