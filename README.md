@@ -29,7 +29,11 @@ Welcome to Simple Vapor with Heroku
 <a href="https://docs.vapor.codes/2.0/getting-started/install-on-macos/">https://docs.vapor.codes/2.0/getting-started/install-on-macos/</a>
 
 <h2>Deploy to Heroku</h2>
-<p>1.clone this project <a href="https://github.com/LittleYenMin/Simple-Vapor-with-heroku.git">https://github.com/LittleYenMin/Simple-Vapor-with-heroku.git</a></p>
+<p>
+1.clone this project
+<a href="https://github.com/LittleYenMin/Simple-Vapor-with-heroku.git">https://github.com/LittleYenMin/Simple-Vapor-with-heroku.git</a>
+<pre><code>git clone https://github.com/LittleYenMin/Simple-Vapor-with-heroku.git</code></pre>
+</p>
 <p>2.and make sure your Heroku got this buildPack <a href="https://github.com/vapor/heroku-buildpack">https://github.com/vapor/heroku-buildpack</a></p>
 <p>3.push this project to your own heroku site</p>
 <p>4.complete!</p>
