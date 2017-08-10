@@ -34,9 +34,15 @@ Welcome to Simple Vapor with Heroku
 <a href="https://github.com/LittleYenMin/Simple-Vapor-with-heroku.git">https://github.com/LittleYenMin/Simple-Vapor-with-heroku.git</a>
 <pre><code>git clone https://github.com/LittleYenMin/Simple-Vapor-with-heroku.git</code></pre>
 </p>
-<p>2.and make sure your Heroku got this buildPack <a href="https://github.com/vapor/heroku-buildpack">https://github.com/vapor/heroku-buildpack</a></p>
+<p>2.make sure your Heroku got this buildPack
+<a href="https://github.com/vapor/heroku-buildpack">https://github.com/vapor/heroku-buildpack</a>
+<pre><code>heroku buildpacks:set https://github.com/vapor/heroku-buildpack.git</code></pre>
+</p>
 <p>3.push this project to your own heroku site</p>
+<pre><code>git add .</code></pre>
+<pre><code>git commit -m "my first push"</code></pre>
+<pre><code>git push heroku master</code></pre>
 <p>4.complete!</p>
-
+<pre<code>heroku open /name/test</code></pre>
 <h2>Demo</h2>
 <p><a href="https://radiant-wildwood-64632.herokuapp.com/name/it's%20Demo%20Sites">https://radiant-wildwood-64632.herokuapp.com/name/it's%20Demo%20Sites</a></p>
