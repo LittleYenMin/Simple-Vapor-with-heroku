@@ -24,10 +24,15 @@
 <h1>
 Welcome to Simple Vapor with Heroku
 </h1>
-
+<p>it's very easily to teach you how to make a Vapor Herkou site</p>
 <h2>please check this url to set your environment</h2>
 <a href="https://docs.vapor.codes/2.0/getting-started/install-on-macos/">https://docs.vapor.codes/2.0/getting-started/install-on-macos/</a>
 
 <h2>Deploy to Heroku</h2>
-<p>clone this project <a href="https://github.com/LittleYenMin/Simple-Vapor-with-heroku.git">https://github.com/LittleYenMin/Simple-Vapor-with-heroku.git</a></p>
-<p>and make sure your Heroku got this buildPack <a href="https://github.com/vapor/heroku-buildpack">https://github.com/vapor/heroku-buildpack</a></p>
+<p>1.clone this project <a href="https://github.com/LittleYenMin/Simple-Vapor-with-heroku.git">https://github.com/LittleYenMin/Simple-Vapor-with-heroku.git</a></p>
+<p>2.and make sure your Heroku got this buildPack <a href="https://github.com/vapor/heroku-buildpack">https://github.com/vapor/heroku-buildpack</a></p>
+<p>3.push this project to your own heroku site</p>
+<p>4.complete!</p>
+
+<h2>Demo</h2>
+<p><a href="https://radiant-wildwood-64632.herokuapp.com/name/it's%20Demo%20Sites">https://radiant-wildwood-64632.herokuapp.com/name/it's%20Demo%20Sites</a></p>
