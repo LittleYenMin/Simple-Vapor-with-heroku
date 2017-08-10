@@ -24,7 +24,7 @@
 <h1>
 Welcome to Simple Vapor with Heroku
 </h1>
-<p>it's very easily to teach you how to make a Vapor Herkou site</p>
+<p>it's very easily to teach you how to make your own Vapor Herkou site</p>
 <h2>please check this url to set your environment</h2>
 <a href="https://docs.vapor.codes/2.0/getting-started/install-on-macos/">https://docs.vapor.codes/2.0/getting-started/install-on-macos/</a>
 
