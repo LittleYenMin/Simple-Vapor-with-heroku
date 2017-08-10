@@ -22,7 +22,7 @@
     </a>
 </center>
 <h1>
-Hello!Welcome to Simple Vapor with Heroku
+Welcome to Simple Vapor with Heroku
 </h1>
 
 <h2>please check this url to set your environment</h2>
