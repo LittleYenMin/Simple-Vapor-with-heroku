@@ -21,3 +21,13 @@
         <img src="http://img.shields.io/badge/swift-3.1-brightgreen.svg" alt="Swift 3.1">
     </a>
 </center>
+<h1>
+Hello!Welcome to Simple Vapor with Heroku
+</h1>
+
+<h2>please check this url to set your environment</h2>
+<a href="https://docs.vapor.codes/2.0/getting-started/install-on-macos/">https://docs.vapor.codes/2.0/getting-started/install-on-macos/</a>
+
+<h2>Deploy to Heroku</h2>
+<p>clone this project <a href="https://github.com/LittleYenMin/Simple-Vapor-with-heroku.git">https://github.com/LittleYenMin/Simple-Vapor-with-heroku.git</a></p>
+<p>and make sure your Heroku got this buildPack <a href="https://github.com/vapor/heroku-buildpack">https://github.com/vapor/heroku-buildpack</a></p>
