@@ -43,6 +43,6 @@ Welcome to Simple Vapor with Heroku
 <pre><code>git commit -m "my first push"</code></pre>
 <pre><code>git push heroku master</code></pre>
 <p>4.complete!</p>
-<pre<code>heroku open /name/test</code></pre>
+<pre><code>heroku open /name/test</code></pre>
 <h2>Demo</h2>
 <p><a href="https://radiant-wildwood-64632.herokuapp.com/name/it's%20Demo%20Sites">https://radiant-wildwood-64632.herokuapp.com/name/it's%20Demo%20Sites</a></p>
